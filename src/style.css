@@ -1,0 +1,17 @@
+:root{
+  --apple-green: #8ea604ff;
+  --amber: #f5bb00ff;
+  --gamboge: #ec9f05ff;
+  --cocoa-brown: #d76a03ff;
+  --rust: #bf3100ff;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}

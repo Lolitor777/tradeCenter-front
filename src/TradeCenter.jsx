@@ -1,9 +1,10 @@
 
+import { Navbar } from './ui/Navbar';
 
 export const TradeCenter = () => {
 
-    
+
   return (
-    <h1>Oe</h1>
+    <Navbar />
   )
 }
